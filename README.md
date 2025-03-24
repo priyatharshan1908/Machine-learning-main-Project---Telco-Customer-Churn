@@ -1,6 +1,6 @@
 # Machine-learning-main-Project---Telco-Customer-Churn
 
-Project Title: Telco Customer Churn Prediction and Analysis
+# Project Title: Telco Customer Churn Prediction and Analysis
 
 Problem Statement:
 In the telecommunications industry, customer churn poses a significant challenge to service providers, impacting revenue and long-term business sustainability. This project aims to analyze customer churn behavior in the telecom sector by leveraging historical customer data. By examining various attributes such as tenure, contract type, monthly charges, payment methods, and service usage, this study seeks to uncover key factors contributing to customer attrition.
